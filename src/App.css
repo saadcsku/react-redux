@@ -1,0 +1,31 @@
+.redux-practise
+{
+  width: 200px;
+  margin: 0 auto;
+  margin-top: 100px;
+}
+
+.redux-practise a
+{
+  font-size: 40px;
+  color:black;
+  text-decoration: none;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+
+.redux-practise div
+{
+  width: 60px;
+  padding: 20px;
+  font-size: 30px;
+  border: 1px solid black;
+  display: inline;
+  margin: 0px;
+  margin-right: 10px;
+}
+h1
+{
+  text-align: center;
+}
